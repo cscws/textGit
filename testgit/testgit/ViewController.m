@@ -23,4 +23,8 @@
     [super viewWillAppear:animated];
 }
 
+- (void)addTable{
+    NSLog(@"kkkkk");
+}
+
 @end
