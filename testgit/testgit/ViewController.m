@@ -27,4 +27,8 @@
     NSLog(@"kkkkk");
 }
 
+- (void)addTablekkkkk{
+    NSLog(@"回退代码");
+}
+
 @end
